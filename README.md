@@ -2,7 +2,7 @@
 
 This MATLAB repository is a simple GUI (Graphical User Interface) calculator that allows the user to perform different statistical operations like calculating mean, median, mode, standard deviation, variance, coefficient of variance, interquartile range, and range on a set of numbers (a vector).
 
-**Note: This Probability Calculator is a MATLAB project for the Probability and Statistics course at [Your University]. It effectively showcases the application of learned statistical methods using MATLAB's App Designer.**
+**Note: This Probability Calculator is a MATLAB project for the Probability and Statistics course at Software Engineering of Koya University. It effectively showcases the application of learned statistical methods using MATLAB's App Designer.**
 
 The ProbabilityCalculator function sets up the state of the GUI and handles the setup of the GUI callbacks. The GUI's state contains details about the GUI's name, Singleton status, opening and output functions, and layout function.
 
